@@ -11,7 +11,7 @@ Import-Module .\Mystique.psm1
 ```
 **Or just load the script (you can also `IEX` from web)**
 ```powershell
-. .\FMystique.ps1
+. .\Mystique.ps1
 ```
 Make sure `Set-ExecutionPolicy` is `Unrestricted` or `Bypass`
 ### Get information about a function
